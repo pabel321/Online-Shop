@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order>
+  <OrderID>895628</OrderID>
+  <SessionID>757632912905857E7DA5018BC6CCAEE9</SessionID>
+  <PurchaseAmount>100</PurchaseAmount>
+  <Currency>050</Currency>
+  <Description>Test Product</Description>
+  <Status>DECLINED</Status>
+  <ApprovalCode></ApprovalCode>
+  <PAN>PAN</PAN>
+</Order>
